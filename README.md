@@ -10,12 +10,11 @@ My motivation for creating this app was save time and provide a template/guide f
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
 
-Here is the link to the Github repository where the repo can be cloned (https://github.com/bwalters8910/README-Generator). Here is the link to the deployed application ()
+Here is the link to the Github repository where the repo can be cloned (https://github.com/bwalters8910/README-Generator). 
 
 ## Usage
 
@@ -29,10 +28,6 @@ Please see linked video for a detailed tutorial..
 
 We don't want contributors at this time.
 
-## Tests
-
-No tests at this time.
-
 ## Questions
 
-Here is a link to my GitHub profile https://github.com/bwalters8910. For additional questions, you can reach me via email at brianwalters952@gmail.com
+Here is a link to my GitHub profile https://github.com/bwalters8910. 
