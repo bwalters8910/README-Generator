@@ -18,7 +18,7 @@ Here is the link to the Github repository where the repo can be cloned (https://
 
 ## Usage
 
-Please see linked video for a detailed tutorial..
+Please see linked video for a detailed tutorial.. https://drive.google.com/file/d/19I6x3i9FsHBkuwWua9N1Bg181DdIGs6m/view
 
 ## License
 
